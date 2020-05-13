@@ -1,0 +1,62 @@
+{
+ "name": "elem",
+ "children": [
+  {
+   "name": "PM10",
+   "children": [
+     {"name": "Asma"},
+     {"name": "Disturbi cardio-polmonari"},
+     {"name": "Tumori"}
+   ]
+  },
+  {
+   "name": "NO2",
+   "children": [
+     {"name": "Convulsioni"},
+     {"name": "Dolori toracici"},
+     {"name": "Insufficienza circolatoria"},
+     {"name": "Tosse acuta"}
+   ]
+  },
+  {
+   "name": "CO_8h",
+   "children": [
+    {"name": "Ipossia"}
+   ]
+  },
+  {
+   "name": "O3",
+   "children": [
+    {"name": "Asma"},
+    {"name": "Dispnea"},
+    {"name": "Rallentamento della fagocitosi"}
+   ]
+  },
+  {
+   "name": "C6H6",
+   "children": [
+    {"name": "Anemia aplastica"},
+    {"name": "Leucemia mieloide acuta"},
+    {"name": "Immunodepressione"},
+    {"name": "Problemi coagulatori"},
+    {"name": "Sonnolenza"},
+    {"name": "Tachicardia"},
+    {"name": "Tremori"},
+    {"name": "Vertigini"}
+   ]
+  },
+  {
+   "name": "SO2",
+   "children": [
+    {"name": "Congiuntiviti"},
+    {"name": "Faringiti"}
+    ]
+  },
+  {
+   "name": "PM2.5",
+   "children": [
+    {"name": "Tumori"}
+   ]
+  }
+  ]
+}
