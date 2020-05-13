@@ -1,0 +1,14 @@
+{
+  "name": "@normaloide/milan-air-pollution-from-2008-to-2018",
+  "main": "56e305f78fa58596@646.js",
+  "version": "646.0.0",
+  "homepage": "https://observablehq.com/@normaloide/milan-air-pollution-from-2008-to-2018",
+  "author": {
+    "name": "Edoardo Ferrari",
+    "url": "https://observablehq.com/@normaloide"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
