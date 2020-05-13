@@ -1,0 +1,14 @@
+{
+  "name": "@darkbeccio/prove",
+  "main": "3b4a0e919cddad63@213.js",
+  "version": "213.0.0",
+  "homepage": "https://observablehq.com/@darkbeccio/prove",
+  "author": {
+    "name": "Andrea Guarducci",
+    "url": "https://observablehq.com/@darkbeccio"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@darkbeccio/o3-pm10",
+  "main": "687bcb3b907db13a@125.js",
+  "version": "125.0.0",
+  "homepage": "https://observablehq.com/@darkbeccio/o3-pm10",
+  "author": {
+    "name": "Andrea Guarducci",
+    "url": "https://observablehq.com/@darkbeccio"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
