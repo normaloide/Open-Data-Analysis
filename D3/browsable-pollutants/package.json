@@ -1,0 +1,14 @@
+{
+  "name": "@elle/browsable-pollutants",
+  "main": "9aec13a61d2ed7e6@161.js",
+  "version": "161.0.0",
+  "homepage": "https://observablehq.com/@elle/browsable-pollutants",
+  "author": {
+    "name": "L.",
+    "url": "https://observablehq.com/@elle"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

@@ -1,0 +1,1512 @@
+{
+"name": "2008 - 2018",
+"children": [
+{
+"name": "2008",
+"children": [
+{
+"name": "January",
+"children": [
+{"name": "PM10", "value": 62.47849},
+{"name": "NO2", "value": 118.64404},
+{"name": "O3", "value": 24.129032},
+{"name": "C6H6", "value": 4.4700003},
+{"name": "SO2", "value": 4.080645},
+{"name": "PM25", "value": 49.096775}
+]
+},
+{
+"name": "February",
+"children": [
+{"name": "PM10", "value": 85.7184},
+{"name": "NO2", "value": 125.60222},
+{"name": "O3", "value": 37.534477},
+{"name": "C6H6", "value": 4.2413793},
+{"name": "SO2", "value": 4.827586},
+{"name": "PM25", "value": 63.892857}
+]
+},
+{
+"name": "March",
+"children": [
+{"name": "PM10", "value": 38.69355},
+{"name": "NO2", "value": 99.06163},
+{"name": "O3", "value": 68.37635},
+{"name": "C6H6", "value": 1.6532258},
+{"name": "SO2", "value": 3.0166667},
+{"name": "PM25", "value": 25.357143}
+]
+},
+{
+"name": "April",
+"children": [
+{"name": "PM10", "value": 30.055553},
+{"name": "NO2", "value": 98.44166},
+{"name": "O3", "value": 89.56667},
+{"name": "C6H6", "value": 1.525},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 17.666666}
+]
+},
+{
+"name": "May",
+"children": [
+{"name": "PM10", "value": 33.623653},
+{"name": "NO2", "value": 82.94381},
+{"name": "O3", "value": 100.97311},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 4.935484},
+{"name": "PM25", "value": 15.67742}
+]
+},
+{
+"name": "June",
+"children": [
+{"name": "PM10", "value": 34.35},
+{"name": "NO2", "value": 76.48571},
+{"name": "O3", "value": 106.288895},
+{"name": "C6H6", "value": 1.65},
+{"name": "SO2", "value": 4.5833335},
+{"name": "PM25", "value": 17.37037}
+]
+},
+{
+"name": "July",
+"children": [
+{"name": "PM10", "value": 32.79032},
+{"name": "NO2", "value": 70.14178},
+{"name": "O3", "value": 137.03764},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 3.7272727},
+{"name": "PM25", "value": 13.379311}
+]
+},
+{
+"name": "August",
+"children": [
+{"name": "PM10", "value": 25.602156},
+{"name": "NO2", "value": 79.919655},
+{"name": "O3", "value": 133.01613},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 3.548387},
+{"name": "PM25", "value": 7.0}
+]
+},
+{
+"name": "September",
+"children": [
+{"name": "PM10", "value": 32.427773},
+{"name": "NO2", "value": 103.49953},
+{"name": "O3", "value": 85.12778},
+{"name": "C6H6", "value": 1.825},
+{"name": "SO2", "value": 3.9074075},
+{"name": "PM25", "value": 19.666666}
+]
+},
+{
+"name": "October",
+"children": [
+{"name": "PM10", "value": 67.575264},
+{"name": "NO2", "value": 128.60408},
+{"name": "O3", "value": 54.768826},
+{"name": "C6H6", "value": 4.104839},
+{"name": "SO2", "value": 3.8166666},
+{"name": "PM25", "value": 44.25926}
+]
+},
+{
+"name": "November",
+"children": [
+{"name": "PM10", "value": 41.577778},
+{"name": "NO2", "value": 102.68354},
+{"name": "O3", "value": 34.78889},
+{"name": "C6H6", "value": 3.0},
+{"name": "SO2", "value": 2.72},
+{"name": "PM25", "value": 38.827587}
+]
+},
+{
+"name": "December",
+"children": [
+{"name": "PM10", "value": 54.80645},
+{"name": "NO2", "value": 109.922806},
+{"name": "O3", "value": 25.623657},
+{"name": "C6H6", "value": 4.453704},
+{"name": "SO2", "value": 8.548388},
+{"name": "PM25", "value": 51.041668}
+]
+}
+]
+},
+{
+"name": "2009",
+"children": [
+{
+"name": "January",
+"children": [
+{"name": "PM10", "value": 82.71506},
+{"name": "NO2", "value": 136.02264},
+{"name": "O3", "value": 19.2957},
+{"name": "C6H6", "value": 5.540323},
+{"name": "SO2", "value": 12.16129},
+{"name": "PM25", "value": 67.703705}
+]
+},
+{
+"name": "February",
+"children": [
+{"name": "PM10", "value": 62.494045},
+{"name": "NO2", "value": 116.2485},
+{"name": "O3", "value": 41.357143},
+{"name": "C6H6", "value": 3.0267856},
+{"name": "SO2", "value": 4.946429},
+{"name": "PM25", "value": 46.84}
+]
+},
+{
+"name": "March",
+"children": [
+{"name": "PM10", "value": 48.629032},
+{"name": "NO2", "value": 103.730606},
+{"name": "O3", "value": 69.451614},
+{"name": "C6H6", "value": 2.0086207},
+{"name": "SO2", "value": 4.580645},
+{"name": "PM25", "value": 33.258064}
+]
+},
+{
+"name": "April",
+"children": [
+{"name": "PM10", "value": 32.02778},
+{"name": "NO2", "value": 92.97203},
+{"name": "O3", "value": 79.33888},
+{"name": "C6H6", "value": 1.6083333},
+{"name": "SO2", "value": 6.267857},
+{"name": "PM25", "value": 22.107143}
+]
+},
+{
+"name": "May",
+"children": [
+{"name": "PM10", "value": 31.408604},
+{"name": "NO2", "value": 93.508064},
+{"name": "O3", "value": 117.01076},
+{"name": "C6H6", "value": 1.548387},
+{"name": "SO2", "value": 4.6034484},
+{"name": "PM25", "value": 13.966666}
+]
+},
+{
+"name": "June",
+"children": [
+{"name": "PM10", "value": 26.08889},
+{"name": "NO2", "value": 80.96071},
+{"name": "O3", "value": 131.23334},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 3.32},
+{"name": "PM25", "value": 13.933333}
+]
+},
+{
+"name": "July",
+"children": [
+{"name": "PM10", "value": 27.516132},
+{"name": "NO2", "value": 86.95699},
+{"name": "O3", "value": 146.4785},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 14.304348}
+]
+},
+{
+"name": "August",
+"children": [
+{"name": "PM10", "value": 26.98387},
+{"name": "NO2", "value": 81.372116},
+{"name": "O3", "value": 143.01076},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 6.0833335},
+{"name": "PM25", "value": 12.741936}
+]
+},
+{
+"name": "September",
+"children": [
+{"name": "PM10", "value": 34.12778},
+{"name": "NO2", "value": 112.064285},
+{"name": "O3", "value": 97.63889},
+{"name": "C6H6", "value": 2.11},
+{"name": "SO2", "value": 3.7058823},
+{"name": "PM25", "value": 19.727272}
+]
+},
+{
+"name": "October",
+"children": [
+{"name": "PM10", "value": 50.04839},
+{"name": "NO2", "value": 116.23234},
+{"name": "O3", "value": 50.311825},
+{"name": "C6H6", "value": 2.074074},
+{"name": "SO2", "value": 2.6612904},
+{"name": "PM25", "value": 33.51852}
+]
+},
+{
+"name": "November",
+"children": [
+{"name": "PM10", "value": 57.43333},
+{"name": "NO2", "value": 101.8762},
+{"name": "O3", "value": 19.33889},
+{"name": "C6H6", "value": 3.8333333},
+{"name": "SO2", "value": 3.3},
+{"name": "PM25", "value": 44.03448}
+]
+},
+{
+"name": "December",
+"children": [
+{"name": "PM10", "value": 57.784946},
+{"name": "NO2", "value": 117.72581},
+{"name": "O3", "value": 19.112904},
+{"name": "C6H6", "value": 4.612903},
+{"name": "SO2", "value": 4.516667},
+{"name": "PM25", "value": 45.129032}
+]
+}
+]
+},
+{
+"name": "2010",
+"children": [
+{
+"name": "January",
+"children": [
+{"name": "PM10", "value": 74.78494},
+{"name": "NO2", "value": 100.650986},
+{"name": "O3", "value": 17.132183},
+{"name": "C6H6", "value": 4.2032256},
+{"name": "SO2", "value": 3.2777777},
+{"name": "PM25", "value": 57.11111}
+]
+},
+{
+"name": "February",
+"children": [
+{"name": "PM10", "value": 57.791664},
+{"name": "NO2", "value": 111.17028},
+{"name": "O3", "value": 36.761906},
+{"name": "C6H6", "value": 2.989286},
+{"name": "SO2", "value": 3.7142856},
+{"name": "PM25", "value": 47.65}
+]
+},
+{
+"name": "March",
+"children": [
+{"name": "PM10", "value": 42.1129},
+{"name": "NO2", "value": 101.66129},
+{"name": "O3", "value": 64.21506},
+{"name": "C6H6", "value": 1.5758064},
+{"name": "SO2", "value": 3.532258},
+{"name": "PM25", "value": 29.666666}
+]
+},
+{
+"name": "April",
+"children": [
+{"name": "PM10", "value": 29.47778},
+{"name": "NO2", "value": 102.11191},
+{"name": "O3", "value": 95.25},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.6166666},
+{"name": "PM25", "value": 17.84}
+]
+},
+{
+"name": "May",
+"children": [
+{"name": "PM10", "value": 24.634409},
+{"name": "NO2", "value": 79.356575},
+{"name": "O3", "value": 95.51613},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.919355},
+{"name": "PM25", "value": 13.67742}
+]
+},
+{
+"name": "June",
+"children": [
+{"name": "PM10", "value": 24.427782},
+{"name": "NO2", "value": 76.61686},
+{"name": "O3", "value": 119.77776},
+{"name": "C6H6", "value": 2.2683334},
+{"name": "SO2", "value": 2.8},
+{"name": "PM25", "value": 11.333333}
+]
+},
+{
+"name": "July",
+"children": [
+{"name": "PM10", "value": 27.177425},
+{"name": "NO2", "value": 83.394585},
+{"name": "O3", "value": 154.59677},
+{"name": "C6H6", "value": 2.8387096},
+{"name": "SO2", "value": 2.7903225},
+{"name": "PM25", "value": 15.807693}
+]
+},
+{
+"name": "August",
+"children": [
+{"name": "PM10", "value": 20.129032},
+{"name": "NO2", "value": 66.644585},
+{"name": "O3", "value": 110.532265},
+{"name": "C6H6", "value": 1.7645161},
+{"name": "SO2", "value": 2.6041667},
+{"name": "PM25", "value": 8.833333}
+]
+},
+{
+"name": "September",
+"children": [
+{"name": "PM10", "value": 28.683332},
+{"name": "NO2", "value": 106.40496},
+{"name": "O3", "value": 83.55555},
+{"name": "C6H6", "value": 1.5666667},
+{"name": "SO2", "value": 2.6666667},
+{"name": "PM25", "value": 14.5}
+]
+},
+{
+"name": "October",
+"children": [
+{"name": "PM10", "value": 48.612907},
+{"name": "NO2", "value": 110.56295},
+{"name": "O3", "value": 44.870964},
+{"name": "C6H6", "value": 2.637097},
+{"name": "SO2", "value": 3.935484},
+{"name": "PM25", "value": 34.032257}
+]
+},
+{
+"name": "November",
+"children": [
+{"name": "PM10", "value": 39.22778},
+{"name": "NO2", "value": 93.698814},
+{"name": "O3", "value": 24.788889},
+{"name": "C6H6", "value": 2.4166667},
+{"name": "SO2", "value": 4.116667},
+{"name": "PM25", "value": 26.11111}
+]
+},
+{
+"name": "December",
+"children": [
+{"name": "PM10", "value": 55.58602},
+{"name": "NO2", "value": 106.18145},
+{"name": "O3", "value": 16.258066},
+{"name": "C6H6", "value": 3.1935484},
+{"name": "SO2", "value": 3.532258},
+{"name": "PM25", "value": 32.8}
+]
+}
+]
+},
+{
+"name": "2011",
+"children": [
+{
+"name": "January",
+"children": [
+{"name": "PM10", "value": 80.037636},
+{"name": "NO2", "value": 108.64056},
+{"name": "O3", "value": 15.537634},
+{"name": "C6H6", "value": 3.7580645},
+{"name": "SO2", "value": 4.2419353},
+{"name": "PM25", "value": 57.935482}
+]
+},
+{
+"name": "February",
+"children": [
+{"name": "PM10", "value": 87.11903},
+{"name": "NO2", "value": 147.03125},
+{"name": "O3", "value": 34.10714},
+{"name": "C6H6", "value": 3.0285716},
+{"name": "SO2", "value": 4.732143},
+{"name": "PM25", "value": 60.0}
+]
+},
+{
+"name": "March",
+"children": [
+{"name": "PM10", "value": 43.360214},
+{"name": "NO2", "value": 106.657265},
+{"name": "O3", "value": 68.430115},
+{"name": "C6H6", "value": 1.8870968},
+{"name": "SO2", "value": 3.1935484},
+{"name": "PM25", "value": 30.161291}
+]
+},
+{
+"name": "April",
+"children": [
+{"name": "PM10", "value": 36.238888},
+{"name": "NO2", "value": 101.091934},
+{"name": "O3", "value": 104.08889},
+{"name": "C6H6", "value": 1.75},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 21.5}
+]
+},
+{
+"name": "May",
+"children": [
+{"name": "PM10", "value": 29.763443},
+{"name": "NO2", "value": 91.94317},
+{"name": "O3", "value": 124.49999},
+{"name": "C6H6", "value": 1.532258},
+{"name": "SO2", "value": 2.4944446},
+{"name": "PM25", "value": 14.925926}
+]
+},
+{
+"name": "June",
+"children": [
+{"name": "PM10", "value": 26.47222},
+{"name": "NO2", "value": 78.00377},
+{"name": "O3", "value": 105.19998},
+{"name": "C6H6", "value": 1.575},
+{"name": "SO2", "value": 2.7166667},
+{"name": "PM25", "value": 14.535714}
+]
+},
+{
+"name": "July",
+"children": [
+{"name": "PM10", "value": 20.188171},
+{"name": "NO2", "value": 67.13971},
+{"name": "O3", "value": 114.532265},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 9.12}
+]
+},
+{
+"name": "August",
+"children": [
+{"name": "PM10", "value": 24.741936},
+{"name": "NO2", "value": 75.616936},
+{"name": "O3", "value": 137.22581},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 11.185185}
+]
+},
+{
+"name": "September",
+"children": [
+{"name": "PM10", "value": 38.755558},
+{"name": "NO2", "value": 116.38011},
+{"name": "O3", "value": 108.85556},
+{"name": "C6H6", "value": 1.775},
+{"name": "SO2", "value": 2.586207},
+{"name": "PM25", "value": 25.95}
+]
+},
+{
+"name": "October",
+"children": [
+{"name": "PM10", "value": 53.04301},
+{"name": "NO2", "value": 114.820656},
+{"name": "O3", "value": 64.645164},
+{"name": "C6H6", "value": 2.137097},
+{"name": "SO2", "value": 2.9722223},
+{"name": "PM25", "value": 36.903225}
+]
+},
+{
+"name": "November",
+"children": [
+{"name": "PM10", "value": 74.83334},
+{"name": "NO2", "value": 107.268456},
+{"name": "O3", "value": 23.611113},
+{"name": "C6H6", "value": 4.235},
+{"name": "SO2", "value": 2.9666667},
+{"name": "PM25", "value": 54.793102}
+]
+},
+{
+"name": "December",
+"children": [
+{"name": "PM10", "value": 75.82795},
+{"name": "NO2", "value": 118.17704},
+{"name": "O3", "value": 10.32258},
+{"name": "C6H6", "value": 4.379032},
+{"name": "SO2", "value": 3.8035715},
+{"name": "PM25", "value": 59.130436}
+]
+}
+]
+},
+{
+"name": "2012",
+"children": [
+{
+"name": "January",
+"children": [
+{"name": "PM10", "value": 71.36558},
+{"name": "NO2", "value": 112.17665},
+{"name": "O3", "value": 22.60215},
+{"name": "C6H6", "value": 2.7145164},
+{"name": "SO2", "value": 3.419355},
+{"name": "PM25", "value": 50.733334}
+]
+},
+{
+"name": "February",
+"children": [
+{"name": "PM10", "value": 81.75861},
+{"name": "NO2", "value": 131.8639},
+{"name": "O3", "value": 44.12069},
+{"name": "C6H6", "value": 1.9482758},
+{"name": "SO2", "value": 4.5},
+{"name": "PM25", "value": 57.77778}
+]
+},
+{
+"name": "March",
+"children": [
+{"name": "PM10", "value": 60.279568},
+{"name": "NO2", "value": 123.14113},
+{"name": "O3", "value": 73.758064},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.7258065},
+{"name": "PM25", "value": 38.466667}
+]
+},
+{
+"name": "April",
+"children": [
+{"name": "PM10", "value": 21.7},
+{"name": "NO2", "value": 75.3625},
+{"name": "O3", "value": 81.35556},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 11.214286}
+]
+},
+{
+"name": "May",
+"children": [
+{"name": "PM10", "value": 23.623657},
+{"name": "NO2", "value": 76.25653},
+{"name": "O3", "value": 105.08064},
+{"name": "C6H6", "value": 1.6111112},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 8.05}
+]
+},
+{
+"name": "June",
+"children": [
+{"name": "PM10", "value": 28.516668},
+{"name": "NO2", "value": 69.73055},
+{"name": "O3", "value": 119.950005},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 13.344828}
+]
+},
+{
+"name": "July",
+"children": [
+{"name": "PM10", "value": 24.827955},
+{"name": "NO2", "value": 61.768627},
+{"name": "O3", "value": 125.00538},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 9.785714}
+]
+},
+{
+"name": "August",
+"children": [
+{"name": "PM10", "value": 25.672045},
+{"name": "NO2", "value": 66.94701},
+{"name": "O3", "value": 132.8656},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 12.833333}
+]
+},
+{
+"name": "September",
+"children": [
+{"name": "PM10", "value": 30.472223},
+{"name": "NO2", "value": 96.38671},
+{"name": "O3", "value": 86.511116},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 18.48276}
+]
+},
+{
+"name": "October",
+"children": [
+{"name": "PM10", "value": 42.177418},
+{"name": "NO2", "value": 88.196434},
+{"name": "O3", "value": 44.833336},
+{"name": "C6H6", "value": 1.5362903},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 33.48387}
+]
+},
+{
+"name": "November",
+"children": [
+{"name": "PM10", "value": 48.688892},
+{"name": "NO2", "value": 91.72678},
+{"name": "O3", "value": 23.138887},
+{"name": "C6H6", "value": 1.6758333},
+{"name": "SO2", "value": 2.7586207},
+{"name": "PM25", "value": 42.316666}
+]
+},
+{
+"name": "December",
+"children": [
+{"name": "PM10", "value": 49.15053},
+{"name": "NO2", "value": 106.566246},
+{"name": "O3", "value": 15.688171},
+{"name": "C6H6", "value": 2.7862904},
+{"name": "SO2", "value": 3.9791667},
+{"name": "PM25", "value": 42.919353}
+]
+}
+]
+},
+{
+"name": "2013",
+"children": [
+{
+"name": "January",
+"children": [
+{"name": "PM10", "value": 58.785713},
+{"name": "NO2", "value": 88.904335},
+{"name": "O3", "value": 15.095236},
+{"name": "C6H6", "value": 2.5663693},
+{"name": "SO2", "value": 7.142857},
+{"name": "PM25", "value": 51.910713}
+]
+},
+{
+"name": "February",
+"children": [
+{"name": "PM10", "value": 48.63462},
+{"name": "NO2", "value": 101.29117},
+{"name": "O3", "value": 48.86538},
+{"name": "C6H6", "value": 1.9887822},
+{"name": "SO2", "value": 7.826087},
+{"name": "PM25", "value": 41.634617}
+]
+},
+{
+"name": "March",
+"children": [
+{"name": "PM10", "value": 42.435898},
+{"name": "NO2", "value": 98.26808},
+{"name": "O3", "value": 67.557686},
+{"name": "C6H6", "value": 1.5961539},
+{"name": "SO2", "value": 3.1153846},
+{"name": "PM25", "value": 36.96154}
+]
+},
+{
+"name": "April",
+"children": [
+{"name": "PM10", "value": 32.91379},
+{"name": "NO2", "value": 87.04372},
+{"name": "O3", "value": 83.6954},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 7.62069},
+{"name": "PM25", "value": 27.344828}
+]
+},
+{
+"name": "May",
+"children": [
+{"name": "PM10", "value": 22.208334},
+{"name": "NO2", "value": 69.58526},
+{"name": "O3", "value": 87.583336},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 11.125},
+{"name": "PM25", "value": 15.479167}
+]
+},
+{
+"name": "June",
+"children": [
+{"name": "PM10", "value": 23.14881},
+{"name": "NO2", "value": 71.78359},
+{"name": "O3", "value": 116.82143},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 4.3846154},
+{"name": "PM25", "value": 16.339285}
+]
+},
+{
+"name": "July",
+"children": [
+{"name": "PM10", "value": 25.29487},
+{"name": "NO2", "value": 88.13292},
+{"name": "O3", "value": 143.41666},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.9615386},
+{"name": "PM25", "value": 16.48077}
+]
+},
+{
+"name": "August",
+"children": [
+{"name": "PM10", "value": 20.391026},
+{"name": "NO2", "value": 69.2239},
+{"name": "O3", "value": 124.98719},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 3.84375},
+{"name": "PM25", "value": 12.346154}
+]
+},
+{
+"name": "September",
+"children": [
+{"name": "PM10", "value": 29.28889},
+{"name": "NO2", "value": 84.68444},
+{"name": "O3", "value": 94.72224},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 2.7916667},
+{"name": "PM25", "value": 19.916666}
+]
+},
+{
+"name": "October",
+"children": [
+{"name": "PM10", "value": 39.05952},
+{"name": "NO2", "value": 76.065056},
+{"name": "O3", "value": 36.095238},
+{"name": "C6H6", "value": 1.725},
+{"name": "SO2", "value": 3.6296296},
+{"name": "PM25", "value": 29.785715}
+]
+},
+{
+"name": "November",
+"children": [
+{"name": "PM10", "value": 35.333332},
+{"name": "NO2", "value": 87.95966},
+{"name": "O3", "value": 29.09259},
+{"name": "C6H6", "value": 2.0648148},
+{"name": "SO2", "value": 4.388889},
+{"name": "PM25", "value": 27.333334}
+]
+},
+{
+"name": "December",
+"children": [
+{"name": "PM10", "value": 88.73333},
+{"name": "NO2", "value": 141.53929},
+{"name": "O3", "value": 13.383333},
+{"name": "C6H6", "value": 5.31875},
+{"name": "SO2", "value": 9.825},
+{"name": "PM25", "value": 75.15}
+]
+}
+]
+},
+{
+"name": "2014",
+"children": [
+{
+"name": "January",
+"children": [
+{"name": "PM10", "value": 43.493057},
+{"name": "NO2", "value": 94.05059},
+{"name": "O3", "value": 16.79861},
+{"name": "C6H6", "value": 3.0149305},
+{"name": "SO2", "value": 4.4791665},
+{"name": "PM25", "value": 39.5625}
+]
+},
+{
+"name": "February",
+"children": [
+{"name": "PM10", "value": 32.544872},
+{"name": "NO2", "value": 91.63874},
+{"name": "O3", "value": 27.153847},
+{"name": "C6H6", "value": 2.121795},
+{"name": "SO2", "value": 5.269231},
+{"name": "PM25", "value": 29.096153}
+]
+},
+{
+"name": "March",
+"children": [
+{"name": "PM10", "value": 49.333332},
+{"name": "NO2", "value": 105.17857},
+{"name": "O3", "value": 70.38095},
+{"name": "C6H6", "value": 1.9103175},
+{"name": "SO2", "value": 4.0},
+{"name": "PM25", "value": 39.45238}
+]
+},
+{
+"name": "April",
+"children": [
+{"name": "PM10", "value": 31.250002},
+{"name": "NO2", "value": 90.167725},
+{"name": "O3", "value": 85.03572},
+{"name": "C6H6", "value": 1.5133928},
+{"name": "SO2", "value": 3.5},
+{"name": "PM25", "value": 21.946428}
+]
+},
+{
+"name": "May",
+"children": [
+{"name": "PM10", "value": 20.153847},
+{"name": "NO2", "value": 70.06845},
+{"name": "O3", "value": 95.346146},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 7.0},
+{"name": "PM25", "value": 14.230769}
+]
+},
+{
+"name": "June",
+"children": [
+{"name": "PM10", "value": 27.22667},
+{"name": "NO2", "value": 76.81357},
+{"name": "O3", "value": 125.65999},
+{"name": "C6H6", "value": 1.5},
+{"name": "SO2", "value": 8.555555},
+{"name": "PM25", "value": 17.5}
+]
+},
+{
+"name": "July",
+"children": [
+{"name": "PM10", "value": 17.48},
+{"name": "NO2", "value": 68.43809},
+{"name": "O3", "value": 103.34667},
+{"name": "C6H6", "value": 1.2166667},
+{"name": "SO2", "value": 5.4375},
+{"name": "PM25", "value": 10.88}
+]
+},
+{
+"name": "August",
+"children": [
+{"name": "PM10", "value": 16.804596},
+{"name": "NO2", "value": 58.327587},
+{"name": "O3", "value": 97.528755},
+{"name": "C6H6", "value": 0.6436782},
+{"name": "SO2", "value": 2.5892856},
+{"name": "PM25", "value": 9.344828}
+]
+},
+{
+"name": "September",
+"children": [
+{"name": "PM10", "value": 29.755953},
+{"name": "NO2", "value": 85.72512},
+{"name": "O3", "value": 88.3869},
+{"name": "C6H6", "value": 1.2035716},
+{"name": "SO2", "value": 3.18},
+{"name": "PM25", "value": 19.178572}
+]
+},
+{
+"name": "October",
+"children": [
+{"name": "PM10", "value": 45.66026},
+{"name": "NO2", "value": 81.851425},
+{"name": "O3", "value": 52.519234},
+{"name": "C6H6", "value": 2.0067308},
+{"name": "SO2", "value": 3.3269231},
+{"name": "PM25", "value": 31.0}
+]
+},
+{
+"name": "November",
+"children": [
+{"name": "PM10", "value": 42.63492},
+{"name": "NO2", "value": 81.01916},
+{"name": "O3", "value": 31.793652},
+{"name": "C6H6", "value": 2.6940477},
+{"name": "SO2", "value": 6.4210525},
+{"name": "PM25", "value": 32.285713}
+]
+},
+{
+"name": "December",
+"children": [
+{"name": "PM10", "value": 39.885963},
+{"name": "NO2", "value": 84.248116},
+{"name": "O3", "value": 20.245613},
+{"name": "C6H6", "value": 3.169737},
+{"name": "SO2", "value": 5.7894735},
+{"name": "PM25", "value": 30.552631}
+]
+}
+]
+},
+{
+"name": "2015",
+"children": [
+{
+"name": "January",
+"children": [
+{"name": "PM10", "value": 56.2},
+{"name": "NO2", "value": 105.46548},
+{"name": "O3", "value": 32.68889},
+{"name": "C6H6", "value": 3.7783334},
+{"name": "SO2", "value": 2.7692308},
+{"name": "PM25", "value": 45.8}
+]
+},
+{
+"name": "February",
+"children": [
+{"name": "PM10", "value": 52.083332},
+{"name": "NO2", "value": 118.877686},
+{"name": "O3", "value": 44.924995},
+{"name": "C6H6", "value": 3.1470833},
+{"name": "SO2", "value": 2.875},
+{"name": "PM25", "value": 42.575}
+]
+},
+{
+"name": "March",
+"children": [
+{"name": "PM10", "value": 47.770832},
+{"name": "NO2", "value": 110.00521},
+{"name": "O3", "value": 72.145836},
+{"name": "C6H6", "value": 2.0246527},
+{"name": "SO2", "value": 3.2173913},
+{"name": "PM25", "value": 38.5625}
+]
+},
+{
+"name": "April",
+"children": [
+{"name": "PM10", "value": 30.644926},
+{"name": "NO2", "value": 97.78727},
+{"name": "O3", "value": 97.2029},
+{"name": "C6H6", "value": 1.092029},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 24.73913}
+]
+},
+{
+"name": "May",
+"children": [
+{"name": "PM10", "value": 26.157894},
+{"name": "NO2", "value": 82.41065},
+{"name": "O3", "value": 104.8772},
+{"name": "C6H6", "value": 1.104386},
+{"name": "SO2", "value": 3.8157895},
+{"name": "PM25", "value": 18.342106}
+]
+},
+{
+"name": "June",
+"children": [
+{"name": "PM10", "value": 21.850876},
+{"name": "NO2", "value": 73.608086},
+{"name": "O3", "value": 121.307014},
+{"name": "C6H6", "value": 0.86096483},
+{"name": "SO2", "value": 2.7631578},
+{"name": "PM25", "value": 13.473684}
+]
+},
+{
+"name": "July",
+"children": [
+{"name": "PM10", "value": 28.902777},
+{"name": "NO2", "value": 68.305305},
+{"name": "O3", "value": 148.23611},
+{"name": "C6H6", "value": 0.79930544},
+{"name": "SO2", "value": 4.6904764},
+{"name": "PM25", "value": 15.520833}
+]
+},
+{
+"name": "August",
+"children": [
+{"name": "PM10", "value": 25.916668},
+{"name": "NO2", "value": 74.93367},
+{"name": "O3", "value": 121.92857},
+{"name": "C6H6", "value": 0.725},
+{"name": "SO2", "value": 3.6666667},
+{"name": "PM25", "value": 16.714285}
+]
+},
+{
+"name": "September",
+"children": [
+{"name": "PM10", "value": 25.833332},
+{"name": "NO2", "value": 84.20489},
+{"name": "O3", "value": 81.447365},
+{"name": "C6H6", "value": 1.3127193},
+{"name": "SO2", "value": 6.2105265},
+{"name": "PM25", "value": 14.605263}
+]
+},
+{
+"name": "October",
+"children": [
+{"name": "PM10", "value": 38.696968},
+{"name": "NO2", "value": 86.79247},
+{"name": "O3", "value": 44.378788},
+{"name": "C6H6", "value": 2.239015},
+{"name": "SO2", "value": 6.931818},
+{"name": "PM25", "value": 29.15909}
+]
+},
+{
+"name": "November",
+"children": [
+{"name": "PM10", "value": 55.07937},
+{"name": "NO2", "value": 103.40561},
+{"name": "O3", "value": 23.349205},
+{"name": "C6H6", "value": 3.3277776},
+{"name": "SO2", "value": 6.2619047},
+{"name": "PM25", "value": 43.65}
+]
+},
+{
+"name": "December",
+"children": [
+{"name": "PM10", "value": 81.04167},
+{"name": "NO2", "value": 98.13124},
+{"name": "O3", "value": 8.941667},
+{"name": "C6H6", "value": 4.30125},
+{"name": "SO2", "value": 5.638889},
+{"name": "PM25", "value": 66.625}
+]
+}
+]
+},
+{
+"name": "2016",
+"children": [
+{
+"name": "January",
+"children": [
+{"name": "PM10", "value": 55.944443},
+{"name": "NO2", "value": 99.96786},
+{"name": "O3", "value": 19.08889},
+{"name": "C6H6", "value": 3.5900002},
+{"name": "SO2", "value": 6.8333335},
+{"name": "PM25", "value": 47.2}
+]
+},
+{
+"name": "February",
+"children": [
+{"name": "PM10", "value": 39.888885},
+{"name": "NO2", "value": 85.1148},
+{"name": "O3", "value": 35.45238},
+{"name": "C6H6", "value": 2.3035715},
+{"name": "SO2", "value": 2.6190476},
+{"name": "PM25", "value": 31.380953}
+]
+},
+{
+"name": "March",
+"children": [
+{"name": "PM10", "value": 29.025},
+{"name": "NO2", "value": 82.41428},
+{"name": "O3", "value": 71.40833},
+{"name": "C6H6", "value": 1.4637499},
+{"name": "SO2", "value": 3.125},
+{"name": "PM25", "value": 24.425}
+]
+},
+{
+"name": "April",
+"children": [
+{"name": "PM10", "value": 32.754383},
+{"name": "NO2", "value": 75.23002},
+{"name": "O3", "value": 91.64036},
+{"name": "C6H6", "value": 0.83070177},
+{"name": "SO2", "value": 4.5526314},
+{"name": "PM25", "value": 23.236841}
+]
+},
+{
+"name": "May",
+"children": [
+{"name": "PM10", "value": 18.833334},
+{"name": "NO2", "value": 72.44465},
+{"name": "O3", "value": 89.958336},
+{"name": "C6H6", "value": 0.88874996},
+{"name": "SO2", "value": 2.8125},
+{"name": "PM25", "value": 13.85}
+]
+},
+{
+"name": "June",
+"children": [
+{"name": "PM10", "value": 18.708334},
+{"name": "NO2", "value": 69.9587},
+{"name": "O3", "value": 116.91667},
+{"name": "C6H6", "value": 0.7609375},
+{"name": "SO2", "value": 6.625},
+{"name": "PM25", "value": 11.625}
+]
+},
+{
+"name": "July",
+"children": [
+{"name": "PM10", "value": 23.944443},
+{"name": "NO2", "value": 72.26871},
+{"name": "O3", "value": 135.15872},
+{"name": "C6H6", "value": 0.70238096},
+{"name": "SO2", "value": 6.6666665},
+{"name": "PM25", "value": 13.595238}
+]
+},
+{
+"name": "August",
+"children": [
+{"name": "PM10", "value": 18.685188},
+{"name": "NO2", "value": 63.850857},
+{"name": "O3", "value": 116.324066},
+{"name": "C6H6", "value": 0.5513889},
+{"name": "SO2", "value": 5.6923075},
+{"name": "PM25", "value": 10.527778}
+]
+},
+{
+"name": "September",
+"children": [
+{"name": "PM10", "value": 33.333332},
+{"name": "NO2", "value": 90.40136},
+{"name": "O3", "value": 111.14286},
+{"name": "C6H6", "value": 1.1162697},
+{"name": "SO2", "value": 5.475},
+{"name": "PM25", "value": 19.02381}
+]
+},
+{
+"name": "October",
+"children": [
+{"name": "PM10", "value": 31.4},
+{"name": "NO2", "value": 79.6},
+{"name": "O3", "value": 41.191666},
+{"name": "C6H6", "value": 1.61625},
+{"name": "SO2", "value": 5.8235292},
+{"name": "PM25", "value": 21.225}
+]
+},
+{
+"name": "November",
+"children": [
+{"name": "PM10", "value": 44.19047},
+{"name": "NO2", "value": 79.59439},
+{"name": "O3", "value": 19.825397},
+{"name": "C6H6", "value": 2.1920633},
+{"name": "SO2", "value": 6.857143},
+{"name": "PM25", "value": 33.095238}
+]
+},
+{
+"name": "December",
+"children": [
+{"name": "PM10", "value": 60.774506},
+{"name": "NO2", "value": 88.77836},
+{"name": "O3", "value": 13.656863},
+{"name": "C6H6", "value": 3.9573526},
+{"name": "SO2", "value": 7.5882354},
+{"name": "PM25", "value": 47.264706}
+]
+}
+]
+},
+{
+"name": "2017",
+"children": [
+{
+"name": "January",
+"children": [
+{"name": "PM10", "value": 67.26471},
+{"name": "NO2", "value": 110.325714},
+{"name": "O3", "value": 30.117647},
+{"name": "C6H6", "value": 3.9769611},
+{"name": "SO2", "value": 3.96875},
+{"name": "PM25", "value": 51.911766}
+]
+},
+{
+"name": "February",
+"children": [
+{"name": "PM10", "value": 69.94167},
+{"name": "NO2", "value": 83.87173},
+{"name": "O3", "value": 26.80833},
+{"name": "C6H6", "value": 3.4754167},
+{"name": "SO2", "value": 5.9},
+{"name": "PM25", "value": 51.95}
+]
+},
+{
+"name": "March",
+"children": [
+{"name": "PM10", "value": 47.355072},
+{"name": "NO2", "value": 93.89809},
+{"name": "O3", "value": 73.86956},
+{"name": "C6H6", "value": 1.9304348},
+{"name": "SO2", "value": 6.6},
+{"name": "PM25", "value": 31.673914}
+]
+},
+{
+"name": "April",
+"children": [
+{"name": "PM10", "value": 28.186274},
+{"name": "NO2", "value": 71.760155},
+{"name": "O3", "value": 94.098045},
+{"name": "C6H6", "value": 0.84607846},
+{"name": "SO2", "value": 5.0},
+{"name": "PM25", "value": 21.67647}
+]
+},
+{
+"name": "May",
+"children": [
+{"name": "PM10", "value": 20.238094},
+{"name": "NO2", "value": 69.85261},
+{"name": "O3", "value": 95.0},
+{"name": "C6H6", "value": 0.88492066},
+{"name": "SO2", "value": 4.4166665},
+{"name": "PM25", "value": 12.404762}
+]
+},
+{
+"name": "June",
+"children": [
+{"name": "PM10", "value": 22.698414},
+{"name": "NO2", "value": 57.89201},
+{"name": "O3", "value": 135.65872},
+{"name": "C6H6", "value": 0.7555555},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 13.023809}
+]
+},
+{
+"name": "July",
+"children": [
+{"name": "PM10", "value": 18.674604},
+{"name": "NO2", "value": 64.309525},
+{"name": "O3", "value": 136.90475},
+{"name": "C6H6", "value": 0.67460316},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 10.714286}
+]
+},
+{
+"name": "August",
+"children": [
+{"name": "PM10", "value": 22.343138},
+{"name": "NO2", "value": 66.90441},
+{"name": "O3", "value": 141.72548},
+{"name": "C6H6", "value": 0.6764706},
+{"name": "SO2", "value": 2.2160947},
+{"name": "PM25", "value": 11.78125}
+]
+},
+{
+"name": "September",
+"children": [
+{"name": "PM10", "value": 22.31579},
+{"name": "NO2", "value": 81.121056},
+{"name": "O3", "value": 91.39474},
+{"name": "C6H6", "value": 1.2447369},
+{"name": "SO2", "value": 2.7105262},
+{"name": "PM25", "value": 13.315789}
+]
+},
+{
+"name": "October",
+"children": [
+{"name": "PM10", "value": 61.462124},
+{"name": "NO2", "value": 115.72729},
+{"name": "O3", "value": 69.568184},
+{"name": "C6H6", "value": 2.6181817},
+{"name": "SO2", "value": 2.6136363},
+{"name": "PM25", "value": 39.68182}
+]
+},
+{
+"name": "November",
+"children": [
+{"name": "PM10", "value": 44.45238},
+{"name": "NO2", "value": 107.14049},
+{"name": "O3", "value": 31.547619},
+{"name": "C6H6", "value": 2.7499998},
+{"name": "SO2", "value": 2.7857144},
+{"name": "PM25", "value": 34.35}
+]
+},
+{
+"name": "December",
+"children": [
+{"name": "PM10", "value": 50.862743},
+{"name": "NO2", "value": 103.49118},
+{"name": "O3", "value": 15.764706},
+{"name": "C6H6", "value": 3.2450979},
+{"name": "SO2", "value": 2.7058823},
+{"name": "PM25", "value": 38.97059}
+]
+}
+]
+},
+{
+"name": "2018",
+"children": [
+{
+"name": "January",
+"children": [
+{"name": "PM10", "value": 45.325397},
+{"name": "NO2", "value": 85.73334},
+{"name": "O3", "value": 28.214285},
+{"name": "C6H6", "value": 2.6920636},
+{"name": "SO2", "value": 2.7380953},
+{"name": "PM25", "value": 33.42857}
+]
+},
+{
+"name": "February",
+"children": [
+{"name": "PM10", "value": 36.199997},
+{"name": "NO2", "value": 78.99749},
+{"name": "O3", "value": 45.25},
+{"name": "C6H6", "value": 1.7783333},
+{"name": "SO2", "value": 2.37299},
+{"name": "PM25", "value": 26.8}
+]
+},
+{
+"name": "March",
+"children": [
+{"name": "PM10", "value": 37.365078},
+{"name": "NO2", "value": 88.6381},
+{"name": "O3", "value": 59.190475},
+{"name": "C6H6", "value": 1.7333333},
+{"name": "SO2", "value": 2.7380953},
+{"name": "PM25", "value": 28.714285}
+]
+},
+{
+"name": "April",
+"children": [
+{"name": "PM10", "value": 29.74074},
+{"name": "NO2", "value": 83.27779},
+{"name": "O3", "value": 89.5},
+{"name": "C6H6", "value": 0.75624996},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 16.5}
+]
+},
+{
+"name": "May",
+"children": [
+{"name": "PM10", "value": 20.19697},
+{"name": "NO2", "value": 65.02424},
+{"name": "O3", "value": 100.34091},
+{"name": "C6H6", "value": 0.90681833},
+{"name": "SO2", "value": 2.5},
+{"name": "PM25", "value": 11.727273}
+]
+},
+{
+"name": "June",
+"children": [
+{"name": "PM10", "value": 22.301588},
+{"name": "NO2", "value": 60.02381},
+{"name": "O3", "value": 120.5},
+{"name": "C6H6", "value": 0.6134921},
+{"name": "SO2", "value": 2.631579},
+{"name": "PM25", "value": 12.023809}
+]
+},
+{
+"name": "July",
+"children": [
+{"name": "PM10", "value": 20.96212},
+{"name": "NO2", "value": 68.858345},
+{"name": "O3", "value": 139.65909},
+{"name": "C6H6", "value": 0.6098485},
+{"name": "SO2", "value": 3.5227273},
+{"name": "PM25", "value": 12.772727}
+]
+},
+{
+"name": "August",
+"children": [
+{"name": "PM10", "value": 21.824074},
+{"name": "NO2", "value": 73.6},
+{"name": "O3", "value": 144.75},
+{"name": "C6H6", "value": 0.6166667},
+{"name": "SO2", "value": 3.107143},
+{"name": "PM25", "value": 13.083333}
+]
+},
+{
+"name": "September",
+"children": [
+{"name": "PM10", "value": 30.5},
+{"name": "NO2", "value": 76.090004},
+{"name": "O3", "value": 114.1},
+{"name": "C6H6", "value": 1.1108333},
+{"name": "SO2", "value": 3.425},
+{"name": "PM25", "value": 18.375}
+]
+},
+{
+"name": "October",
+"children": [
+{"name": "PM10", "value": 40.047104},
+{"name": "NO2", "value": 74.250725},
+{"name": "O3", "value": 71.21739},
+{"name": "C6H6", "value": 1.673913},
+{"name": "SO2", "value": 4.978261},
+{"name": "PM25", "value": 27.630434}
+]
+},
+{
+"name": "November",
+"children": [
+{"name": "PM10", "value": 32.487495},
+{"name": "NO2", "value": 67.7825},
+{"name": "O3", "value": 24.65},
+{"name": "C6H6", "value": 2.3825002},
+{"name": "SO2", "value": 6.575},
+{"name": "PM25", "value": 21.6}
+]
+},
+{
+"name": "December",
+"children": [
+{"name": "PM10", "value": 52.859375},
+{"name": "NO2", "value": 89.25},
+{"name": "O3", "value": 17.71875},
+{"name": "C6H6", "value": 3.3520832},
+{"name": "SO2", "value": 3.7},
+{"name": "PM25", "value": 40.875}
+]
+}
+]
+}
+]
+}
