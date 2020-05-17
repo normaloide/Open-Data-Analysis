@@ -1,0 +1,14 @@
+{
+  "name": "@elle/ozone-a-strange-cyclic-trend",
+  "main": "44c77468266922e4@189.js",
+  "version": "189.0.0",
+  "homepage": "https://observablehq.com/@elle/ozone-a-strange-cyclic-trend",
+  "author": {
+    "name": "L.",
+    "url": "https://observablehq.com/@elle"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
