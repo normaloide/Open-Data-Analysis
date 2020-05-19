@@ -1,7 +1,7 @@
 # Open Data Analysis
 Progetto di Visualizzazione Scientifica 2020
 
-Link utili:
+Link utili: <br />
 https://color.review/ <br />
 https://d3js.org/ <br />
 https://observablehq.com/@darkbeccio <br />
